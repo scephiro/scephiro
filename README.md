@@ -17,14 +17,14 @@ I'm a systems architect, founder, and deep generalist building the future at the
 <!-- - **⚡ Vesper** – a crypto wallet concept that fronts gas fees for users, then recovers them post-swap. Designed to improve usability in Ethereum-based ecosystems, especially in emerging markets. -->
 - **📚 Lira AI** – a guided platform that helps students (from secondary school to university) navigate career paths, entrance exams, and life planning in a personalized way.
 
-I move fast, test lean, with a focus on users, systems, and long-term impact.
+I move fast and test lean, with a focus on users, systems, and long-term impact.
 
 ---
 
 ### 🧬 What I Think About
 
-> Even if AI development paused today, it would take years to apply what we already have.  
-> Real leverage in't just from tools, but **how you apply them.**
+> Even if AI development paused today, it would take years to find all the innovative ways to apply what we already have.  
+> Real leverage in't just from tools, but **how you use them.**
 
 I explore topics like:
 - The future of **trust and verification** in a world of AI-synthesized content
@@ -70,6 +70,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
