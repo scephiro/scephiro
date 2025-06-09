@@ -49,6 +49,10 @@ I don't freelance — but I'm open to selective advisory, strategic collaboratio
 
 ---
 
+
+
+
+
 ### 🧰 Tech Stack & Interests
 
 ```yaml
@@ -57,7 +61,7 @@ Frameworks:   React • Next.js • Supabase • Node • Tailwind
 Tooling:      LangChain • OpenAI • Firebase • Notion API • Vercel
 Focus:        MVP-first execution, stealth R&D, agent orchestration
 Learning:     Backend architecture • SQL • Autonomous AI workflows
-
+```
 
 <!--
 **scephiro/scephiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,3 +76,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
