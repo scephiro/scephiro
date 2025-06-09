@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Samson Odo | Scephiro
 
-I'm a systems architect, founder, and deep generalist building the future at the intersection of **AI, infrastructure, and economic empowerment**.
+I'm a systems architect, founder, and hybrid specialist building the future at the intersection of **AI, infrastructure, and economic empowerment**.
 
 ### 🔭 Currently focused on:
 - 🌱 Building projects that merge artificial intelligence with everyday systems
