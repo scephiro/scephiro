@@ -22,7 +22,7 @@ I move fast and test lean, with a focus on users, systems, and long-term impact.
 ### 🧬 What I Think About
 
 > Even if AI development paused today, it would take years to find all the innovative ways to apply what we already have.  
-> Real leverage in't just from tools, but **how you use them.**
+> Real leverage isn't just from tools, but **how you use them.**
 
 I explore topics like:
 - The future of **trust and verification** in a world of AI-synthesized content
