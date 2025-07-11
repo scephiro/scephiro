@@ -43,7 +43,7 @@ I don't freelance — but I'm open to selective advisory, strategic collaboratio
 - AI integration & agent design
 - Framework-first systems thinking
 
-🔗 [scephiro.me](https://scephiro.me) — (WIP)
+🔗 [scephiro.me](https://scephiro.me) 
 
 ---
 
