@@ -22,7 +22,7 @@ I move fast and test lean, with a focus on users, systems, and long-term impact.
 ### 🧬 What I Think About
 
 > Even if AI development paused today, it would take years to find all the innovative ways to apply what we already have.  
-> Real leverage isn't just from tools, but **how you use them.**
+> Real leverage isn't from having tools, but **how you use them.**
 
 I explore topics like:
 - The future of **trust and verification** in a world of AI-synthesized content
@@ -36,7 +36,7 @@ You can read my deeper essays on [Medium](https://scephiro.medium.com/) and foll
 
 ### 💼 Work With Me (Occasionally)
 
-I don't freelance — but I'm open to selective advisory, strategic collaboration, or system design input for bold teams solving hard problems.
+I don't freelance — but I'm open to selective advisory, collaboration, or system design input for bold teams solving hard problems.
 
 **Areas I bring leverage:**
 - Strategic narrative & product vision
@@ -54,9 +54,9 @@ I don't freelance — but I'm open to selective advisory, strategic collaboratio
 ### 🧰 Tech Stack & Interests
 
 ```yaml
-Languages:    JavaScript • Python • Solidity (early-stage)
+Languages:    JavaScript • Python • Typescript 
 Frameworks:   React • Next.js • Supabase • Node • Tailwind
-Tooling:      LangChain • OpenAI • Firebase • Notion API • Vercel
+Tooling:      LangChain • OpenAI • Firebase • 
 Focus:        MVP-first execution, stealth R&D, agent orchestration
 Learning:     Backend architecture • SQL • Autonomous AI workflows
 ```
