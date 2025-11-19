@@ -54,11 +54,11 @@ I don't freelance — but I'm open to selective advisory, collaboration, or syst
 ### 🧰 Tech Stack & Interests
 
 ```yaml
-Languages:    JavaScript • Python • Typescript 
+Languages:    JavaScript • Python • Typescript • Swift 
 Frameworks:   React • Next.js • Supabase • Node • Tailwind
-Tooling:      LangChain • OpenAI • Firebase • 
+Tooling:      LangChain • OpenAI • Firebase • Supabase
 Focus:        MVP-first execution, stealth R&D, agent orchestration
-Learning:     Backend architecture • SQL • Autonomous AI workflows
+Learning:     Backend architecture • Autonomous AI workflows
 ```
 
 <!--
